@@ -36,8 +36,6 @@ She will also need to pay network fees, and wait for transactions to process. Fo
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click to expand</p></figcaption></figure>
-
 ## Option 2: Ambos
 
 The core problem Ambos is aiming to solve is to make it easy for users like Alice who have a simple requirement: "I want money to spend in the real world, but I would like to keep hold of my crypto". By focusing on this workflow, and only this workflow, we can really simplify the process for users like Alice.&#x20;
@@ -61,5 +59,3 @@ The flow diagram for Ambos is below. While there are a few steps, there are some
 As in the above case, there will still be some costs Alice will have to pay. These are network charges and any CEX fees, plus a 1% deposit fee that Ambos charges. On the other hand, Ambos is able to offer savings to Alice by reducing the number of transactions she needs to do.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
