@@ -9,3 +9,9 @@
 ## 📖 Exchange Guides
 
 * [Coinbase](exchange-guides/coinbase.md)
+
+## ❓ FAQs
+
+* [Frequently Asked Questions](faqs/frequently-asked-questions.md)
+* [Fees and Charges](faqs/fees-and-charges.md)
+* [Risks](faqs/risks.md)
