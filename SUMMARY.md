@@ -10,6 +10,11 @@
 
 * [Coinbase](exchange-guides/coinbase.md)
 
+***
+
+* [⚡ Affiliates](affiliates/README.md)
+  * [Affiliate Program](affiliates/affiliate-program.md)
+
 ## ❓ FAQs
 
 * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
