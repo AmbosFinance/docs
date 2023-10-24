@@ -21,6 +21,8 @@
 
 ## ❓ FAQs
 
+* [Networks and Bridging](faqs/networks-and-bridging.md)
 * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
 * [Fees and Charges](faqs/fees-and-charges.md)
 * [Risks](faqs/risks.md)
+* [Loan Terms](faqs/loan-terms.md)
