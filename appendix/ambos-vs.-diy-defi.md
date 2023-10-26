@@ -1,10 +1,4 @@
----
-description: >-
-  Taking out a loan in DeFi has typically been an extremely complicated
-  experience that requires deep expertise. We want to change that.
----
-
-# ✨ Why Ambos?
+# Ambos vs. DIY DeFi
 
 Probably the easiest way to explain the value of Ambos is to compare the borrowing process with and without our application.  In this article, we compare the flow for an imaginary user taking out a DeFi loan, with and without the Ambos application.
 
