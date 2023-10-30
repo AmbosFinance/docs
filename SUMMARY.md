@@ -6,12 +6,12 @@
 
 ***
 
-* [❓ FAQs](faqs/README.md)
-  * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
-  * [Fees and Charges](faqs/fees-and-charges.md)
-  * [Loan Terms](faqs/loan-terms.md)
-  * [Risks](faqs/risks.md)
-  * [Networks and Bridging](faqs/networks-and-bridging.md)
+* [❓ Help Center](help-center/README.md)
+  * [Frequently Asked Questions](help-center/frequently-asked-questions.md)
+  * [Fees and Charges](help-center/fees-and-charges.md)
+  * [Loan Terms](help-center/loan-terms.md)
+  * [Risks](help-center/risks.md)
+  * [Networks and Bridging](help-center/networks-and-bridging.md)
 * [⚡ Affiliates](affiliates/README.md)
   * [📩 How to Participate](affiliates/how-to-participate.md)
   * [🫂 Affiliate Program Introduction](affiliates/affiliate-program-introduction.md)
