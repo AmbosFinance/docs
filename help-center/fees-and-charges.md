@@ -8,7 +8,7 @@ description: >-
 
 | Item                         | Fee                                               |
 | ---------------------------- | ------------------------------------------------- |
-| Borrowing                    | 2% of loan value + network fees (typically $2-$3) |
+| Borrowing                    | 1% of loan value + network fees (typically $2-$3) |
 | Repayments (Stablecoin)      | 0% + network fees (typically $2-$3)               |
 | Repayments (From Collateral) | 1% of repayment value                             |
 
