@@ -17,7 +17,6 @@
   * [🫂 Affiliate Program Introduction](affiliates/affiliate-program-introduction.md)
   * [🎁 Reward System](affiliates/reward-system.md)
   * [🗒 Terms and conditions](affiliates/terms-and-conditions.md)
-  * [📐 Scheme Structure](affiliates/scheme-structure.md)
 * [📖 Exchange Guides](exchange-guides/README.md)
   * [Coinbase](exchange-guides/coinbase.md)
 * [📑 Appendix](appendix/README.md)
