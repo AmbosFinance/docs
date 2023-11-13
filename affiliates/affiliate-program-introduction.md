@@ -12,7 +12,7 @@ The world of web3 and crypto is expansive, and we recognize the potential of eac
 
 Our referral scheme is one of the first steps towards building this community together. It's also tailored to reward the users not only for their direct referrals, but also for their users their referred friends bring to the platform, up to three levels below the initial referrer. \
 \
-ADD SCHEME HERE AND CHECK TEXT CAUSE SEEMS A BIT COMPLICATED AND IT IS \
+To better understand how the system works, check out [reward-system.md](reward-system.md "mention").\
 \
 By introducing Ambos to your circle, not only do you become a pivotal part of our growth story, but you also get generously rewarded for it. We've designed this program to be as inclusive and rewarding as possible, ensuring it resonates with both the crypto-savvy and those new to the cryptoverse.
 
