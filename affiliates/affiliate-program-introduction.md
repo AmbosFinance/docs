@@ -4,7 +4,7 @@ description: Welcome to Ambos' Referral Program!
 
 # 🫂 Affiliate Program Introduction
 
-Introducing our unique Affiliate Program
+**Introducing our unique Affiliate Program**
 
 The first part of Ambos' journey is fueled by the vision of creating a robust and vibrant community.\
 \
