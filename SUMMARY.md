@@ -13,6 +13,7 @@
   * [Risks](help-center/risks.md)
   * [Networks and Bridging](help-center/networks-and-bridging.md)
 * [⚡ Affiliates](affiliates/README.md)
+  * [💰 Cashback Program (Limited)](affiliates/cashback-program-limited.md)
   * [📩 How to Participate](affiliates/how-to-participate.md)
   * [🫂 Affiliate Program Introduction](affiliates/affiliate-program-introduction.md)
   * [🎁 Reward System](affiliates/reward-system.md)
