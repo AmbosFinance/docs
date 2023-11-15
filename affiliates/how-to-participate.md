@@ -1,5 +1,13 @@
 # 📩 How to Participate
 
+🔥**ONLY FOR THE BETA VERSION OF THE PROGRAM🔥**\
+**Join our Discord** [**here**](https://discord.gg/mFkb9rV6nm)**, check out the #affiliate-program channel and open a ticket to receive your custom referral code.\***\
+\
+**\*Limited to the first 50 users that join the program.** \
+\
+\
+\
+\
 **How to Participate in the Ambos Referral Scheme**
 
 Our referral scheme is tailor-made for enthusiasts like you, allowing you to share the Ambos magic with others and reap generous benefits along the way. Here's your step-by-step guide on how to be a part of this exciting journey:
