@@ -6,9 +6,8 @@ description: >-
 
 # Fees and Charges
 
-| Item                         | Fee                                               |
-| ---------------------------- | ------------------------------------------------- |
-| Borrowing                    | 1% of loan value + network fees (typically $2-$3) |
-| Repayments (Stablecoin)      | 0% + network fees (typically $2-$3)               |
-| Repayments (From Collateral) | 1% of repayment value                             |
+| Item                    | Fee                                                                   |
+| ----------------------- | --------------------------------------------------------------------- |
+| Borrowing               | 1% of loan value + network fees (typically $2-$3) + interest payments |
+| Repayments (Stablecoin) | 0% + network fees (typically $2-$3)                                   |
 
